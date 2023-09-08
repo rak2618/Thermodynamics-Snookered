@@ -7,4 +7,6 @@ Classes.py creates classes for both balls and the container. These are called in
 
 Simulation.py is a short file that imports Classes.py and runs the simulation. It has adjustable parameters that change the conditions of the system.
 
+![alt text](CodeStructure.png)
+
  
